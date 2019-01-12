@@ -1,3 +1,4 @@
-- ## Get Started
+- ## Get Started with Labile
     - [Overview](/documentation/{{version}}/overview)
     - [Installation](/documentation/{{version}}/installation)
+    - [Examples](/documentation/{{version}}/examples)
