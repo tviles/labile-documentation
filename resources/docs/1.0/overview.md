@@ -2,9 +2,9 @@
 
 ---
 
-- [First Section](#section-1)
+- [Why Labile?](#section-1)
 
 <a name="section-1"></a>
-## First Section
+## Why Labile?
 
 Write something cool.. 🦊
