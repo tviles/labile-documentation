@@ -1,4 +1,13 @@
-- ## Get Started with Labile
+- ## Getting Started
     - [Overview](/documentation/{{version}}/overview)
     - [Installation](/documentation/{{version}}/installation)
-    - [Examples](/documentation/{{version}}/examples)
+    - [Configurations](/documentation/{{version}}/configurations)
+- ## Using Labile
+    - [Creating an instance](/documentation/{{version}}/creating-an-instance)
+    - [State](/documentation/{{version}}/state)
+    - [Lifecycle](/documentation/{{version}}/lifecycle)
+    - [Virtual DOM](/documentation/{{version}}/virtual-dom)
+    - [Templating Syntax](/documentation/{{version}}/templating-syntax)
+- ## Developers
+    - [Contributing to Labile](/documentation/{{version}}/contributing-to-labile)
+    - [System Architecture](/documentation/{{version}}/system-architecture)

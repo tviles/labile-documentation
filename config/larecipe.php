@@ -132,13 +132,14 @@ return [
         'logo'           => '', // e.g.: /images/logo.svg
         'fav'            => '', // e.g.: /fav.png
         'theme'          => 'light',
-        'code'           => 'dark',
+        'code'           => 'light',
         'back_to_top'    => true,
-        'show_side_bar'  => false,
+        'show_side_bar'  => true,
         'colors'         => [
-            'primary'    => '#787AF6',
+            'primary'    => '#0288D1',
             'secondary'  => '#2b9cf2',
-            'selection'  => '#f4f5f7'
+            'selection'  => '#f4f5f7',
+            'info'  => '#03A9F4',
         ],
         'additional_css' => [
             //'css/custom.css',
